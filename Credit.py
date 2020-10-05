@@ -1,5 +1,5 @@
 def check_my_card(arg):
-
+    # allows user to enter a card number
     def input_card_number():
         card = raw_input("please enter your card number:")
         check_input_is_number(card)
